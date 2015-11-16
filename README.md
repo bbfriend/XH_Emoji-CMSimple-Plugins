@@ -44,4 +44,4 @@ default: userfiles/images/emoji/
 Art License Terms : Creative Commons License . Detail http://emojione.com/  
 Software License terms : GPLv3.	 
   
-Forum :
+Forum : http://cmsimpleforum.com/viewtopic.php?f=12&t=9430
