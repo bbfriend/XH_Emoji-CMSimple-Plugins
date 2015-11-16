@@ -1,4 +1,4 @@
-# XH_Emoji-CMSimple-Plugins
+﻿# XH_Emoji-CMSimple-Plugins
 This plug-in to add an emoticon（Emoji One) to TinyMCE4 of CMSimple
 
 Xh_Emoji was modified the [WP Emoji One](https://wordpress.org/plugins/wp-emoji-one/) for the XH  
@@ -16,14 +16,13 @@ XH_Emoji is a plugin for CMSimple_XH.
 ## Installation  
 The installation is done as with many other CMSimple_XH plugins. See the  CMSimple_XH wiki for further details.  
 1.Backup the data on your server.  
-2.Unzip the distribution on your computer.  
+2.Unzip the distribution on your computer.   
 3.Upload the whole directory to your server into the CMSimple_XH directory.  
-◦plugins /xh_emoji ----->  plugins/xh_emoji  
-◦plugins/tinymce4 ----->   plugins/tinymce4  
-◦userfile/emoji       --- >   userfile/emoji  
-
-4.Set write permissions for the plugins/xh_emoji's 
- config/, css/ und languages/.
+◦plugins /xh_emoji &rarr;&rarr;&rarr;&rarr;  plugins/xh_emoji  
+◦plugins/tinymce4 &rarr;&rarr;&rarr;&rarr;   plugins/tinymce4  
+◦userfile/emoji       &rarr;&rarr;&rarr;   userfile/emoji  
+4.Set write permissions for the plugins/xh_emoji's  
+ config/,  languages/.  
 
  
 
@@ -37,8 +36,7 @@ The installation is done as with many other CMSimple_XH plugins. See the  CMSimp
 Select "Xh_emoji" from "Plugins".   
 1."Config". select 1.Lang ....sorry  
 2.if you change icon folder, set Icon path  
- default: userfiles/images/emoji/  
-
+default: userfiles/images/emoji/  
 3."Language" select ,set your Translation.    
 *This is displayed in a pop-up window   
 
